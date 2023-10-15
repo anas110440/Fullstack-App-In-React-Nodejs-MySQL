@@ -1,0 +1,10 @@
+npm i mysql2
+
+
+npm i sequelize sequelize-cli
+npx sequelize-cli init
+
+npm i bcrypt
+
+
+ npm i jsonwebtoken
